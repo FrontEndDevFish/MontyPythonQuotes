@@ -53,6 +53,7 @@ span {
     width: 75%;
     margin: 0 auto;
     font-family: inherit;
+    font-size: 1em;
     padding: 0.5em 1em;
     cursor: pointer;
     border: none;
