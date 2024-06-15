@@ -27,6 +27,12 @@ const generateQuote = function() {
          {
             quote: "Venezuelan beaver cheese?"
         },
+        {
+            quote: "You're fooling yourself. We're living in a dictatorship: a self-perpetuating autocracy in which the working classes..."
+        },
+        {
+            quote: "Nobody expects the Spanish inquisition!"
+        },
 
     ];
         let arrayIndex = Math.floor(Math.random() * quotesArray.length);
